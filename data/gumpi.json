@@ -1,0 +1,14 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "properties": {
+            "name": "gumpi",
+            "location": "gumpi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.350381374359127, 48.194586404788296]
+        }
+    }]
+}
